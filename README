@@ -1,0 +1,6 @@
+
+SIMFLEX
+Ed Callaghan
+November 2014
+
+	Simulated bit-FLipping EXperiment (SIMFLEX) is the simulation package for the CRIBFLEX experiment. Right now, all it does is tell you that some number of flips has occurred. Obviously, this should be built upon into a full package.
